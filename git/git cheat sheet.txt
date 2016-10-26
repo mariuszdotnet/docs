@@ -7,5 +7,6 @@
 	"	<NEWBRANCHNAME> -> create new branch
 6.	git checkout -> move across branches/commit objects
 7.	git merge <BRANCHTOMARGE> -> merge from <BRANCHTOMARGE> into <TARGETBRANCH> e.g. git merge devbranch (merge devbranch into master branch)
+8.	git clone <REMOTEREPOURL> -> close remote report to local machine
 9.	git push origin master -> push upto remote repo from local repo
 10.	git pull origin master -> pull from remote repo into local repo (sync)
