@@ -10,3 +10,8 @@
 8.	git clone <REMOTEREPOURL> -> close remote report to local machine
 9.	git push origin master -> push upto remote repo from local repo
 10.	git pull origin master -> pull from remote repo into local repo (sync)
+
+Taging
+
+1.	git tag -> List your tags
+2. 	git tag -a "version tag" -m "version message" - > Create a Tag
