@@ -12,6 +12,8 @@
 10.	git pull origin master -> pull from remote repo into local repo (sync)
 
 Taging
-
 1.	git tag -> List your tags
 2. 	git tag -a "version tag" -m "version message" - > Create a Tag
+
+Go Back to a Commit
+1.	git reset --hard <COMMITID> -> hard reset to a specific commit
