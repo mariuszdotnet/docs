@@ -17,3 +17,4 @@ Taging
 
 Go Back to a Commit
 1.	git reset --hard <COMMITID> -> hard reset to a specific commit
+2.	git reset HEAD --hard <commit_id> -> "Move" your head back to the desired commit.
