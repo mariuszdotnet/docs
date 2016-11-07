@@ -1,6 +1,7 @@
 1.	git init -> create local repo
 2.	git status -> status of files
 3.	git add . -> stage file(s)
+3.1	git reset filename.txt -> undo a git add for a specific file
 4.	git commit -m "commit message" -> commit file to local repo, changes are tracked
 5.	git branch -> list existing branches
 	"	-v  -> show all commits
